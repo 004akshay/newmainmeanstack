@@ -1,0 +1,42 @@
+/* .row{
+    width: 50%;
+    height: 500px;
+    background-color: chartreuse;
+    display: flex;
+    justify-content: right;
+     display flex availble whhile using parent and child class
+     ***justify right
+} */
+/* .row{
+    width: 50%;
+    height: 500px;
+    background-color: chartreuse;
+    display: flex;
+    justify-content:space-between;
+ **  justify content :space between
+} */
+/* .row{
+    width: 50%;
+    height: 500px;
+    background-color: chartreuse;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+
+} */
+.row{
+    width: 50%;
+    height: 500px;
+    background-color: chartreuse;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+
+}
+.col{
+    width: 100px;
+    height: 300px;
+    background-color: black;
+    border: blanchedalmond solid 2px;
+
+}

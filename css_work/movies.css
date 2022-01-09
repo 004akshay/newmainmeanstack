@@ -1,0 +1,31 @@
+#he{
+    color: white;
+    text-align: center;
+}
+body{
+    background-color: black;
+
+}
+#parent{
+    height: 600px;
+    width: 12%;
+    color: white;
+    background-color: black;
+    border:  rgb(15, 11, 11) solid 1px;
+    float:left;
+    padding: 40px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+
+}
+
+#child{
+    height: 25px;
+    width: 200px;
+    border: rgb(248, 247, 247) solid 2px;
+    padding-left: 20px;
+}
+#parent img{
+    height: 150px;
+    width: 100%;
+}

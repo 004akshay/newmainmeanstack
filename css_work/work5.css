@@ -1,0 +1,13 @@
+div{
+    height: 380px;
+    width: 30%;
+    background-color: chartreuse;
+    border: solid black 3px;
+    float: left;
+}
+img{
+    width: 70%;
+}
+div img{
+    width: 100%;
+}

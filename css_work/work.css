@@ -1,0 +1,151 @@
+h1{
+    text-align: center;
+    color: white;
+}
+div{
+    height: 200px;
+    width: 150px;
+}
+/* #a1{
+    background-color: brown;
+    margin-top: 17px;
+    margin-left: 250px;
+} */
+#a2{
+    background-color: rgb(177, 74, 74);
+    margin-top:-199px;
+    margin-left: 421px;
+}#a3{
+    background-color: rgb(82, 50, 168);
+    margin-top: -199px;
+    margin-left: 590px;
+}
+#a4{
+    background-color: rgb(82, 170, 47);
+    margin-top: -199px;
+    margin-left: 759px;
+}
+#a5{
+    background-color: rgb(160, 45, 125);
+    margin-top: -199px;
+    margin-left: 928px;
+
+}
+#a6{
+    background-color: rgb(186, 216, 53);
+    margin-top: -199px;
+    margin-left: 1097px;
+
+}
+
+/* #b1{
+    background-color: brown;
+    margin-top: 15px;
+    margin-left: 87px;
+
+} */
+#b2{
+    background-color: rgba(240, 14, 14, 0.904);
+    margin-top: -199px;
+    margin-left: 250px;
+
+}
+#b3{
+    background-color: rgb(230, 199, 29);
+    margin-top: -199px;
+    margin-left: 420px;
+
+}
+#b4{
+    background-color: rgb(73, 233, 24);
+    margin-top: -199px;
+    margin-left: 587px;
+
+}  
+#b5{
+    background-color: rgb(8, 217, 245);
+    margin-top: -199px;
+    margin-left: 758px;
+
+}  
+#b6{
+    background-color: rgb(36, 3, 97);
+    margin-top: -199px;
+    margin-left: 929px;
+
+}
+#b7{
+    background-color: rgb(253, 5, 158);
+    margin-top: -199px;
+    margin-left: 1097px;
+}
+#b8{
+    background-color: rgb(156, 26, 98);
+    margin-top: -199px;
+    margin-left: 1097px;
+}    
+#b9{
+    background-color: rgb(145, 76, 209);
+    margin-top: -199px;
+    margin-left: 1260px;
+
+}
+#c1{
+    background-color: rgb(9, 93, 141);
+    margin-top: 10px;
+    margin-left: 82px;
+
+}
+#c2{
+    background-color: rgb(175, 17, 248);
+    margin-top:-199px;
+    margin-left: 250px;
+}
+#c3{
+    background-color: rgb(4, 75, 2);
+    margin-top:-199px;
+    margin-left: 421px;
+}
+/* #c4{
+    background-color: brown;
+    margin-top:-199px;
+    margin-left: 500px; */
+}
+#c5{
+    background-color: rgb(229, 226, 226);
+    margin-top:-199px;
+    margin-left: 586px;
+}
+#c6{
+    background-color: rgb(77, 97, 133);
+    margin-top:-599px;
+    margin-left: 590px;
+}
+#c7{
+    background-color: rgb(106, 138, 18);
+    margin-top:-199px;
+    margin-left: 760px;
+}
+#c8{
+    background-color: rgb(204, 80, 22);
+    margin-top:-199px;
+    margin-left: 930px;
+}
+#c9{
+    background-color: rgb(199, 150, 15);
+    margin-top:-199px;
+    margin-left: 1097px;
+}
+#c10{
+    background-color: rgb(4, 144, 187);
+    margin-top:-199px;
+    margin-left: 1263px;
+}
+#c11{
+    background-color: rgb(231, 160, 160);
+    margin-top:-199px;
+    margin-left: 1436px;
+}
+body{
+    background-color: black;
+}

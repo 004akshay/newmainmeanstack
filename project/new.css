@@ -1,0 +1,362 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Dancing+Script&family=Fruktur&family=Irish+Grover&display=swap');
+
+
+.row{
+    background-color: rgb(19, 150, 84);
+    height:165px;
+    width: 100%;
+    display: flex;
+    position: relative;
+    text-align: 200px;
+}
+h1{
+    margin-left: 30%;
+    margin-top: 60px;
+    font-size: 50px;
+    font-family: 'Irish Grover', cursive;
+}
+body{
+    background-color: rgb(15, 6, 3);
+}
+#a1{
+    font-family: 'Irish Grover', cursive;
+    padding-left: 50px;
+    font-size:larger;
+
+}
+#a2{font-family: 'Irish Grover', cursive;
+    padding-left: 100px;
+    font-size:larger;
+
+}
+.row1{
+
+        background-color: rgb(19, 150, 84);
+        height:365px;
+        width: 100%;
+        display: flex;
+        position: relative;
+        text-align: 200px;
+
+}
+.a3{
+    font-family: 'Irish Grover', cursive;
+    padding-left: 100px;
+    font-size:larger;
+}
+#im1{
+    height: 364px;
+    width: 50%;
+}
+#im2{
+    height: 364px;
+    width: 50%;
+}
+.row2{
+
+    background-color: rgb(19, 150, 84);
+    height:365px;
+    width: 100%;
+    display: flex;
+    position: absolute;
+    text-align: 200px;
+
+
+}
+.col4{
+    height: 100px;
+    width:100px;
+    position: relative;
+    
+}
+#a4{
+    font-family: 'Irish Grover', cursive;
+    padding-left: 100px;
+    font-size: x-large;
+    text-decoration:underline;
+
+
+}
+#u1{
+     font-family: 'Irish Grover', cursive;
+    padding-left: 120px;
+    font-size: x-large;
+    
+    
+
+}
+/* #img4{
+    height: 150px;
+    width: 100px;
+    padding-left: 30px;
+    padding-top: 10px;
+
+} */
+#img5{height: 302px;
+    width: 400px;
+    padding-left: 100px;
+    padding-top: 30px;
+
+    
+}
+
+.row3{
+
+    background-color: rgb(230, 170, 42);
+    height:279px;
+    width: 100%;
+    /* /* display: flex; */
+    position: relative; 
+    padding-top: 100px;
+    margin-top: 369px;
+    margin-bottom: 50px;
+    
+
+}
+.col31{
+    height: 190px;
+    width: 361px;
+    background-color: rgb(7, 0, 0);
+    justify-content:space-evenly;
+    position: absolute;
+    margin-left: 100px;
+    padding-bottom: 29px;
+    padding-top: 46px;
+    margin-top: 28px;
+}
+.col32{
+    height: 165px;
+    width: 390px;
+    background-color: rgb(13, 14, 12);
+    justify-content:space-evenly;
+    margin-left: 543px;
+    padding-bottom: 50px;
+    position: absolute;
+    padding-top: 50px;
+    margin-top:26px;
+    
+}
+.col33{
+    height: 180px;
+    width: 400px;
+    background-color: rgb(12, 12, 11);
+    justify-content:space-evenly;
+    margin-left: 1000px;
+    padding-bottom: 50px;
+    position: absolute;
+    padding-top: 33px;
+    margin-top:23px;
+    
+}
+#c7{
+    padding-left: 690px;
+    margin-top: -74px;
+    color: white;
+}
+div img{
+    width: 100%;
+    height:100%;
+    
+
+}
+.row3{
+
+    background-color: rgb(14, 13, 13);
+    height:279px;
+    width: 100%;
+    /* /* display: flex; */
+    position: relative; 
+    padding-top: 100px;
+    margin-top: 369px;
+    margin-bottom: 50px;
+    
+
+}
+
+
+
+.col310{
+    height: 190px;
+    width: 361px;
+    background-color: rgb(2, 2, 7);
+    justify-content:space-evenly;
+    position: absolute;
+    margin-left: 100px;
+    padding-bottom: 29px;
+    padding-top: 46px;
+    margin-top: 28px;
+}
+.col311{
+    height: 165px;
+    width: 390px;
+    background-color: rgb(8, 8, 8);
+    justify-content:space-evenly;
+    margin-left: 543px;
+    padding-bottom: 50px;
+    position: absolute;
+    padding-top: 50px;
+    margin-top:26px;
+    
+}
+.col312{
+    height: 180px;
+    width: 400px;
+    background-color: rgb(13, 14, 12);
+    justify-content:space-evenly;
+    margin-left: 1000px;
+    padding-bottom: 50px;
+    position: absolute;
+    padding-top: 33px;
+    margin-top:23px;
+    
+}
+div img{
+    width: 100%;
+    height:100%;
+    
+
+}
+.row5{
+
+    background-color: rgb(14, 13, 13);
+    height:279px;
+    width: 100%;
+    /* /* display: flex; */
+    position: relative; 
+    padding-top: 100px;
+    margin-top: 369px;
+    margin-bottom: 50px;
+    
+
+}
+
+
+
+.col320{
+    height: 190px;
+    width: 361px;
+    background-color: rgb(2, 2, 7);
+    justify-content:space-evenly;
+    position: absolute;
+    margin-left: 100px;
+    padding-bottom: 29px;
+    padding-top: 46px;
+    margin-top: 28px;
+}
+.col321{
+    height: 165px;
+    width: 390px;
+    background-color: rgb(8, 8, 8);
+    justify-content:space-evenly;
+    margin-left: 543px;
+    padding-bottom: 50px;
+    position: absolute;
+    padding-top: 50px;
+    margin-top:26px;
+    
+}
+.col322{
+    height: 180px;
+    width: 400px;
+    background-color: rgb(13, 14, 12);
+    justify-content:space-evenly;
+    margin-left: 1000px;
+    padding-bottom: 50px;
+    position: absolute;
+    padding-top: 33px;
+    margin-top:23px;
+    
+}
+div img{
+    width: 100%;
+    height:100%;
+    
+
+}
+.row3{
+
+    background-color: rgb(14, 13, 13);
+    height:279px;
+    width: 100%;
+    /* /* display: flex; */
+    position: relative; 
+    padding-top: 100px;
+    margin-top: 369px;
+    margin-bottom: 50px;
+    
+
+}
+
+
+
+.col330{
+    height: 190px;
+    width: 361px;
+    background-color: rgb(0, 0, 5);
+    justify-content:space-evenly;
+    position: absolute;
+    margin-left: 100px;
+    padding-bottom: 29px;
+    padding-top: 46px;
+    margin-top: 28px;
+}
+.col331{
+    height: 165px;
+    width: 390px;
+    background-color: rgb(8, 8, 8);
+    justify-content:space-evenly;
+    margin-left: 543px;
+    padding-bottom: 50px;
+    position: absolute;
+    padding-top: 50px;
+    margin-top:26px;
+    
+}
+.col332{
+    height: 180px;
+    width: 400px;
+    background-color: rgb(13, 14, 12);
+    justify-content:space-evenly;
+    margin-left: 1000px;
+    padding-bottom: 50px;
+    position: absolute;
+    padding-top: 33px;
+    margin-top:23px;
+    
+}
+div img{
+    width: 100%;
+    height:100%;
+    
+
+}
+.row9{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(19, 150, 84);
+    height:279px;
+    width: 100%;
+    /* /* display: flex; */
+    position: relative; 
+    padding-top: 100px;
+    margin-top: 350px;
+    margin-bottom: 50px;
+}
+#cr7{
+    padding-left: 690px;
+    margin-top: -74px;
+    color: rgb(12, 1, 1);
+
+}
+#lm10{
+    padding-left: 690px;
+    margin-top: -74px;
+    color: rgb(3, 0, 0);
+
+}
+form{
+    text-align: center;
+    border: solid black 3px;
+}
+
+

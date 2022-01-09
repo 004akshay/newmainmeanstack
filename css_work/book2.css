@@ -1,0 +1,28 @@
+.row{
+    background-color: black;
+    height:700px;
+    width: 100%;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+
+}
+.col{
+    padding:25px;
+    height:560px;
+    width: 270px;
+    background-color: rgb(227, 228, 228);
+
+}
+#a1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+img{
+    height: 300px;
+    width: 256px;
+    padding:20px;
+}
+#a2{
+    text-align: center;
+}

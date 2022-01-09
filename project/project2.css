@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Dancing+Script&family=Fruktur&family=Irish+Grover&display=swap');
+body{
+    background-color: black;
+}
+.row{
+    background-color: rgb(19, 150, 84);
+    height:165px;
+    width: 100%;
+    display: flex;
+    justify-content: start;
+    margin-bottom: 200px;
+    position: relative;
+    text-align: 200px;
+}
+.col{
+    
+    height:159px;
+    width: 270px;
+    margin-left: 1px;
+    margin-bottom: 530px;
+    background-color:  rgb(223, 158, 18);
+    position: absolute;
+}
+img{
+    height: 164px;
+    width: 100%;
+}
+h1{
+    margin-left: 30%;
+    margin-top: 60px;
+    font-size: 50px;
+    font-family: 'Irish Grover', cursive;
+}
+.row2{
+    background-color: rgb(77, 67, 67);
+    height:700px;
+    width: 100%;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    margin-top: -300px;
+    margin-bottom: 200px;
+
+
+}
+.col2{
+    padding:25px;
+    height:360px;
+    width: 270px;
+    background-color: rgb(227, 228, 228);
+}
+.col2 img{
+    width: 100%;
+    height: 350px;
+}

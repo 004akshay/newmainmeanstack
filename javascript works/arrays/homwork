@@ -1,0 +1,14 @@
+find common elements from two array
+var arr[10,11,20,21]
+var arr[11,12,20,21]
+
+
+
+find an element from an array
+var arr[11,12,15,20]
+element=15
+
+
+find sum 
+var arr=[2,4,6]
+

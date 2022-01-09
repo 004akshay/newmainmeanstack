@@ -1,0 +1,42 @@
+.row{
+    height: 500px;
+    width: 500px;
+    border: solid black 2px;
+    background-color: chartreuse;
+    position: relative;
+}
+.col{
+    height: 200px;
+    width: 100px;
+    border: solid blue 2px;
+
+}
+.col-1{
+    position: absolute;
+    background-color: brown;
+    
+
+}
+.col-2{
+    position: absolute;
+    background-color: rgb(154, 140, 236);
+    left: 105px;
+    
+}
+.col-3{
+    position: absolute;
+    background-color: rgb(5, 163, 202);
+    left: 210px;
+    
+}
+.col-4{
+    position: absolute;
+    background-color: rgb(243, 239, 18);
+    left: 320px;
+}
+body{
+    background-image: url(./man-walking-dog.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
